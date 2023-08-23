@@ -1,6 +1,0 @@
-Invoking command in '/home/vivi/workspace/chortle/build/chortle': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vivi/workspace/chortle -DCMAKE_INSTALL_PREFIX=/home/vivi/workspace/chortle/install/chortle
-Invoked command in '/home/vivi/workspace/chortle/build/chortle' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/vivi/workspace/chortle -DCMAKE_INSTALL_PREFIX=/home/vivi/workspace/chortle/install/chortle
-Invoking command in '/home/vivi/workspace/chortle/build/chortle': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vivi/workspace/chortle/build/chortle -- -j8 -l8
-Invoked command in '/home/vivi/workspace/chortle/build/chortle' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/vivi/workspace/chortle/build/chortle -- -j8 -l8
-Invoking command in '/home/vivi/workspace/chortle/build/chortle': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vivi/workspace/chortle/build/chortle
-Invoked command in '/home/vivi/workspace/chortle/build/chortle' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/vivi/workspace/chortle/build/chortle
