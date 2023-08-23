@@ -1,0 +1,10 @@
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/uninstall.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/chortle_uninstall.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/chortle.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/test.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/edit_cache.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/rebuild_cache.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/list_install_components.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/install.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/install/local.dir
+/home/vivi/workspace/chortle/build/chortle/CMakeFiles/install/strip.dir

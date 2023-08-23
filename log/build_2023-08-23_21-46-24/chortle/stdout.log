@@ -1,0 +1,25 @@
+gmake[1]: Entering directory '/home/vivi/workspace/chortle/build/chortle'
+gmake[2]: Entering directory '/home/vivi/workspace/chortle/build/chortle'
+gmake[3]: Entering directory '/home/vivi/workspace/chortle/build/chortle'
+[35m[1mConsolidate compiler generated dependencies of target chortle[0m
+gmake[3]: Leaving directory '/home/vivi/workspace/chortle/build/chortle'
+[100%] Built target chortle
+gmake[2]: Leaving directory '/home/vivi/workspace/chortle/build/chortle'
+gmake[1]: Leaving directory '/home/vivi/workspace/chortle/build/chortle'
+-- Install configuration: ""
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/lib/chortle/chortle
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/ament_index/resource_index/package_run_dependencies/chortle
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/ament_index/resource_index/parent_prefix_path/chortle
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/environment/ament_prefix_path.sh
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/environment/path.sh
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/environment/path.dsv
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/local_setup.bash
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/local_setup.sh
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/local_setup.zsh
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/local_setup.dsv
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/package.dsv
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/ament_index/resource_index/packages/chortle
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/cmake/chortleConfig.cmake
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/cmake/chortleConfig-version.cmake
+-- Up-to-date: /home/vivi/workspace/chortle/install/chortle/share/chortle/package.xml

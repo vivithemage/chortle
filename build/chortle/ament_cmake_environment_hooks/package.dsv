@@ -1,0 +1,4 @@
+source;share/chortle/local_setup.bash
+source;share/chortle/local_setup.dsv
+source;share/chortle/local_setup.sh
+source;share/chortle/local_setup.zsh

@@ -1,0 +1,8 @@
+source;share/chortle/hook/cmake_prefix_path.ps1
+source;share/chortle/hook/cmake_prefix_path.dsv
+source;share/chortle/hook/cmake_prefix_path.sh
+source;share/chortle/local_setup.bash
+source;share/chortle/local_setup.dsv
+source;share/chortle/local_setup.ps1
+source;share/chortle/local_setup.sh
+source;share/chortle/local_setup.zsh
